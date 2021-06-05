@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: "@abhn - Abhishek Nagekar"
+title: Paulo Bertanha
+description: Técnico em Informática
+site_title: "Portfolio - Paulo"
 
 # Build settings
 markdown: kramdown
@@ -8,14 +8,10 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: kallardian
-blog_url: https://www.nagekar.com
 email: paulobertanha03@gmail.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/professional-profile.jpg
 
 # Google Analytics ID
 google_analytics:
